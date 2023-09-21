@@ -12,3 +12,11 @@ The Machine Learning Specialization is a foundational online program created in 
 
 In this beginner-friendly program, you will learn the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
 
+This version is aimed at adapting the python courses to colab and extending both code and course description and commenting for clarity.
+
+Tasks in progress :
+
+- Full colab adaptation
+- Improve comments and descriptions
+- Optimize code if necessary
+
